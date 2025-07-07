@@ -1,7 +1,7 @@
 streamlit
 opencv-python
-mediapipe
+mediapipe-nightly
 numpy
 pandas
-playsound
 joblib
+playsound
